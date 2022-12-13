@@ -1,1 +1,1 @@
-Haskell Curry
+revert this file
